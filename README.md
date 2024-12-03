@@ -1,2 +1,3 @@
 # Cryptography-Project-Sem_1
-Encryption and decryption of a given data.
+
+User inputs a given text of data into the program which thus gets encrypted.
